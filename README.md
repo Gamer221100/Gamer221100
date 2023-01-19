@@ -3,7 +3,7 @@
 
 <p>
     <a href="https://www.youtube.com/channel/UCiJFttBZkG8nTPn80gvE1XA"><img alt=""
-    <img src="https://user-images.githubusercontent.com/82683364/213351446-ef4ec60b-e0bd-4318-a1f7-5d0c9b10e9ed.png" style="width: 5%">
+    <img src="https://user-images.githubusercontent.com/82683364/213351446-ef4ec60b-e0bd-4318-a1f7-5d0c9b10e9ed.png" style="width: 3%">
 </p>
 
 ```java
