@@ -11,8 +11,6 @@ const Gamer221109 = {
 
 [YOUTUBE](https://www.youtube.com/channel/UCiJFttBZkG8nTPn80gvE1XA)
 
-![Gamer221109's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamer221100&show_icons=true&theme=radical)
-
 <!--
 **Gamer221100/Gamer221100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
