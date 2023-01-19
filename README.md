@@ -1,5 +1,5 @@
 ### Hola, soy Gamer221109👋
-### Soy un creador de mods y clientes para minecraft. Aunque soy principiante y estoy tratando de mejorar :)
+### Soy un creador de mods y clientes para Minecraft. Aunque soy principiante, y estoy tratando de mejorar :)
 
 ```java
 const Gamer221109 = {
