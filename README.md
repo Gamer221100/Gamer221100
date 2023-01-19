@@ -2,18 +2,13 @@
 
 ```java
 const Gamer221109 = {
-  pronouns: "she" | "her",
   code: [Java, HTML, CSS, ],
-  tools: [---],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [IntelliJ IDEA],
+  },
 }
 ```
+
+![Gamer221109's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamer221100&show_icons=true&theme=radical)
 
 <!--
 **Gamer221100/Gamer221100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
