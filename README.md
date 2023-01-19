@@ -1,10 +1,10 @@
 ### Hi 👋
 
 ```java
-const thai = {
+const Gamer221109 = {
   pronouns: "she" | "her",
   code: [Java, HTML, CSS, ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [---],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
