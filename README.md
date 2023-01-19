@@ -3,7 +3,7 @@
 
 ```java
 const Gamer221109 = {
-  code: [Jdk, HTML, CSS, ],
+  code: [Jdk],
   tools: [IDEA],
   },
 }
