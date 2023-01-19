@@ -1,15 +1,16 @@
 ### Hola, soy Gamer221109👋
 ### Soy un creador de mods y clientes para Minecraft. Aunque soy principiante, y estoy tratando de mejorar :)
 
+[YOUTUBE](https://www.youtube.com/channel/UCiJFttBZkG8nTPn80gvE1XA)
+
 ```java
 const Gamer221109 = {
   code: [Jdk],
   tools: [IDEA],
+  learning: [Jdk],
   },
 }
 ```
-
-[YOUTUBE](https://www.youtube.com/channel/UCiJFttBZkG8nTPn80gvE1XA)
 
 <!--
 **Gamer221100/Gamer221100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
