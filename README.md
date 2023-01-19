@@ -8,7 +8,7 @@ const Gamer221109 = {
 }
 ```
 
-[YOUTUBE](https://www.youtube.com/)
+[YOUTUBE](https://www.youtube.com/channel/UCiJFttBZkG8nTPn80gvE1XA)
 
 ![Gamer221109's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamer221100&show_icons=true&theme=radical)
 
