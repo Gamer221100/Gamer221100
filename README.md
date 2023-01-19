@@ -2,8 +2,8 @@
 
 ```java
 const Gamer221109 = {
-  code: [Java, HTML, CSS, ],
-  tools: [IntelliJ IDEA],
+  code: [Jdk, HTML, CSS, ],
+  tools: [IDEA],
   },
 }
 ```
