@@ -1,5 +1,5 @@
 ### Hola, soy Gamer221109👋
-### Soy un creador de mods y clientes para Minecraft. Aunque soy principiante, y estoy tratando de mejorar :)
+### Soy un creador de mods y plugins para Minecraft. Aunque soy principiante, y estoy tratando de mejorar :)
 
 <p>
     <a href="https://www.youtube.com/channel/UCiJFttBZkG8nTPn80gvE1XA"><img alt=""
