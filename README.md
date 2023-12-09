@@ -7,11 +7,12 @@
 </p>
 
 ```java
-const Gamer221109 = {
-  code: [Jdk],
-  tools: [IDEA],
-  learning: [Jdk],
-  },
+public class Gamer221109 {
+    public static void main(String[] args){
+        String Name = "Gamer221109"
+        String Learning = "Java"
+        String IDE = "Intellij Idea"
+ }
 }
 ```
 
